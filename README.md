@@ -1,3 +1,5 @@
+# gintracing
+
 [![GoDoc](https://godoc.org/github.com/containerum/gintracing?status.png)](https://godoc.org/github.com/containerum/gintracing)
 
 Package gintracing provides requests tracing functional using opentracing specification.
