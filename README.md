@@ -1,4 +1,5 @@
-#gintracing [![GoDoc](https://godoc.org/github.com/containerum/gintracing?status.png)](https://godoc.org/github.com/containerum/gintracing)
+[![GoDoc](https://godoc.org/github.com/containerum/gintracing?status.png)](https://godoc.org/github.com/containerum/gintracing)
+
 Package gintracing provides requests tracing functional using opentracing specification.
 
 Download:
@@ -11,7 +12,7 @@ Package gintracing provides requests tracing functional using opentracing specif
 
 See https://github.com/opentracing/opentracing-go for more information
 
-###TODO
+### TODO
 - [ ] add code sample
 
 * * *
