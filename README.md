@@ -3,6 +3,8 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/containerum/gintracing)](https://goreportcard.com/report/github.com/containerum/gintracing)
 [![GoDoc](https://godoc.org/github.com/containerum/gintracing?status.png)](https://godoc.org/github.com/containerum/gintracing)
 
+**NOTE: Development moved to repo in [gin-contrib](https://github.com/gin-contrib/tracing)**
+
 Package gintracing provides requests tracing functional using opentracing specification.
 
 Download:
